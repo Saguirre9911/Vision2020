@@ -1,0 +1,9 @@
+En este drive se encuentran 3 códigos.
+
+1)Entrenamiento detector de objetos con las imagenes que están en la misma carpeta del drive.
+2)Clasificador de objetos con un dataset de tf.
+3)Clasificador de enfermedades en las hojas de diversas plantas, con un dataset de tf.
+
+Adicionlamente, se encuentran algunas iteraciones de etrenamientos para detectores de 5 clases.
+
+https://drive.google.com/drive/folders/1Jwle11iYbjdqImAiKtvQ7f0P6nXnd9Kr?usp=sharing
